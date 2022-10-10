@@ -27,6 +27,9 @@ CORE DEVELOPERS:
 
   - Christopher Smith
     College of Information Science, University of Tsukuba
+    
+  - Rendy OGGS
+    Kilo 15, Balikpapan
 
 
 WEB-SITE DESIGNER:
